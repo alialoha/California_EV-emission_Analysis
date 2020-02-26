@@ -2,9 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
-tensorflow
 scikit-learn
-statsmodels
 os
 json
 requests
