@@ -3,10 +3,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-json
-requests
-zipfile
 geopandas
 folium
-random
 IPython
