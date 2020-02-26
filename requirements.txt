@@ -5,3 +5,11 @@ matplotlib
 tensorflow
 scikit-learn
 statsmodels
+os
+json
+requests
+zipfile
+geopandas
+folium
+random
+IPython
